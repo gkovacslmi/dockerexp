@@ -1,0 +1,5 @@
+{
+    "require": {
+        "duoshuo/php-cassandra": "^0.5.2"
+    }
+}
